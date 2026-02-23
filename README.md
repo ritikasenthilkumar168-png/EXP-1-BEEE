@@ -40,21 +40,28 @@ b.  KCL:
 # CIRCUIT DIAGRAM:
 a.   KVL:
 ![alt text](<WhatsApp Image 2026-02-23 at 6.12.14 PM (1).jpeg>)
+
 ![alt text](<Screenshot 2026-02-12 225745.png>)
+
 b.  KCL:
 ![alt text](<WhatsApp Image 2026-02-23 at 6.12.42 PM.jpeg>)
+
 ![alt text](<Screenshot 2026-02-12 230952.png>)
+
  # Calculation:
 a.   KVL:
  ![alt text](<WhatsApp Image 2026-02-23 at 5.56.38 PM.jpeg>)
+ 
  ![alt text](<WhatsApp Image 2026-02-23 at 6.06.09 PM.jpeg>)
 b.  KCL:
 ![alt text](<WhatsApp Image 2026-02-23 at 6.06.22 PM.jpeg>)
+
 ![alt text](<WhatsApp Image 2026-02-23 at 6.06.39 PM.jpeg>)
 
 # Tabulation:
 a.   KVL:
  ![alt text](<WhatsApp Image 2026-02-23 at 6.12.28 PM.jpeg>)
+ 
 b.  KCL:
 ![alt text](<WhatsApp Image 2026-02-23 at 6.12.55 PM.jpeg>)
 # RESULT:
